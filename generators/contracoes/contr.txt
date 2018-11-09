@@ -1,0 +1,85 @@
+De + o(s) – do(s)
+
+De + a(s) – da(s)
+
+De + um – dum
+
+De + uns – duns
+
+De + uma – duma
+
+De + umas – dumas
+
+De + ele(s) – dele(s)
+
+De + ela(s) – dela(s)
+
+De + este(s) – deste(s)
+
+De + esta(s) – desta(s)
+
+De + esse(s) – desse(s)
+
+De + essa(s) – dessa(s)
+
+De + aquele(s) – daquele(s)
+
+De + aquela(s) – daquela(s)
+
+De + isto – disto
+
+De + isso – disso
+
+De + aquilo – daquilo
+
+De + aqui – daqui
+
+De + aí – daí
+
+De + ali – dali
+
+Em + o(s) – no(s)
+
+Em + a(s) – na(s)
+
+Em + um – num
+
+Em + uma – numa
+
+Em + uns – nuns
+
+Em + umas – numas
+
+A + à(s) – à(s)
+
+Per + o – pelo(s)
+
+Per + a – pela(s)
+
+De + outro – doutro(s)
+
+De + outra – doutra(s)
+
+Em + este(s) – neste(s)
+
+Em + esta(s) – nesta(s)
+
+Em + esse(s) – nesse(s)
+
+Em + aquele(s) – naquele(s)
+
+Em + aquela(s) – naquela(s)
+
+Em + isto – nisto
+
+Em + isso – nisso
+
+Em + aquilo – naquilo
+
+A + aquele(s) – àquele(s)
+
+A + aquela(s) – àquela(s)
+
+A + aquilo – àquilo
+
+A + aquilo – ao

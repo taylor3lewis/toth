@@ -1,0 +1,1 @@
+print " ak ah alkjh kjah   ".lstrip(' ').rstrip(' ')+"."
